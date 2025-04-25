@@ -1,0 +1,6 @@
+{name}
+Цена: {price} грн
+
+{description}
+
+Пиши в Директ!
